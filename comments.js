@@ -41,3 +41,10 @@ http.createServer(function (req, res) {
 }).listen(8080, function () {
     console.log('Server is running at http://');
 });
+
+// 3. Listen port
+// server.listen(8080, function () {
+//     console.log('Server is running at http://');
+// });
+
+// app.get('/', function (req,
